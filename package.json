@@ -33,7 +33,7 @@
   },
   "github": "https://github.com/gaer87/react-swipe-to-delete-component",
   "engines": {
-    "node": "^16.0.0"
+    "node": "^17.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.7",
